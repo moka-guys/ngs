@@ -1,0 +1,5 @@
+ClinExdata.bed	-30 +20 of each region in HPO.final.bed file
+BRCAdata.bed see BRCA1+2only_LogFile.txt for how bed file was generated
+PTENdata.bed see PTENonly_LogFile.txt
+STK11data.bed see STK11only_LogFile.txt
+TP53data.bed see TP53only_LogFile.txt
