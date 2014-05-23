@@ -10,7 +10,7 @@ A plain text file was provided in BED format (BRCA NGS CNV exons plus 40bpJC.txt
 ###Determination of CNV size resolution sensitivity ###
 7 different CNVs of variable size (260bp - 80kb) were previously detected by ExomeDepth and were studied to determine whether the programme could still detected these CNVs if only 20-200bp of sequence relating to the CNV was provided. BRCAexonsplitbedBRCA1_2only.bed bedfile was ammended so that only the 20-200bp of the central region of the CNV was represented in the bedfile. 
 
-|   |   |   |   |   |
+|flflflflf|   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
