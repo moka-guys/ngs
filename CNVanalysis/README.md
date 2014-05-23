@@ -1,5 +1,4 @@
-﻿
-# Instructions for setting up CNV analysis using the Moka Pipeline and the R programme ExomeDepth. #
+﻿# Instructions for setting up CNV analysis using the Moka Pipeline and the R programme ExomeDepth. #
 
 OOBed4.py is a python class which will set up customised bedfiles. The script can accept a set of chromosomal regions or a list of transcript accession numbers. You then assign the length to be added either side of your regions of interest and a text bed file will be generated along with a log file indicating what settings were used to generate the bed file
 
